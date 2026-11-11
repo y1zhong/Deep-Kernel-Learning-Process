@@ -1,9 +1,5 @@
 # Code for 'Deep kernel learning based Gaussian processes for Bayesian image regression analysis'
 
-## Maintainer
-- **Yuan Zhong** ([Contact](mailto:ylzhong@umich.edu))
-  - Department of Biostatistics, University of Michigan
-
 ## Overview
 This repository contains the code and simulated datasets to reproduce the simulation studies in "Deep kernel learning based Gaussian processes for Bayesian image regression analysis". Results from real data analysis can be provided upon request.
 
